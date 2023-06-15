@@ -133,7 +133,7 @@ public class MainActivity extends AppCompatActivity {
 
     private MappedByteBuffer loadModelFile() throws IOException {
         // Open the model file from the assets folder
-        AssetFileDescriptor fileDescriptor = getAssets().openFd("model.tflite");
+        AssetFileDescriptor fileDescriptor = getAssets().openFd("digit_classification_model.tflite");
         FileInputStream inputStream = new FileInputStream(fileDescriptor.getFileDescriptor());
         FileChannel fileChannel = inputStream.getChannel();
         return fileChannel.map(FileChannel.MapMode.READ_ONLY, fileDescriptor.getStartOffset(), fileDescriptor.getDeclaredLength());
