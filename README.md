@@ -2,7 +2,7 @@
 
 Welcome to the Digit Classification Model repository! This repository contains a basic On-Device Machine Learning model for classifying handwritten digits. It includes the Jupyter Notebook (`Digit_classification_model.ipynb`) for training the model, the source code for an Android app that integrates the TensorFlow Lite model, and the TensorFlow Lite model itself (`digit_classification_model.tflite`).
 
-![WhatsApp Image 2023-06-15 at 19 07 02](https://github.com/Ashok-Kumar-dharanikota/World-of-AI/assets/103619560/8bc83996-fef9-4c6d-ba7d-ae2306ae3f46)
+<img src="https://github.com/Ashok-Kumar-dharanikota/World-of-AI/assets/103619560/8bc83996-fef9-4c6d-ba7d-ae2306ae3f46" width="300" />
 
 ## Introduction
 
@@ -41,9 +41,11 @@ To set up and use the Digit Classification Model, you need the following:
 
 Here are some preview screenshots of the Digit Classification app:
 
-![WhatsApp Image 2023-06-15 at 19 07 03](https://github.com/Ashok-Kumar-dharanikota/World-of-AI/assets/103619560/c2cdba9c-89b2-469e-92c8-08f0837cb6df)
-![WhatsApp Image 2023-06-15 at 19 07 03](https://github.com/Ashok-Kumar-dharanikota/World-of-AI/assets/103619560/d8fafc4b-f36d-42e7-9de4-7f479d98877d)
-![WhatsApp Image 2023-06-15 at 19 07 03](https://github.com/Ashok-Kumar-dharanikota/World-of-AI/assets/103619560/c87d1820-5c1b-4b91-b104-bdda36b9ce13)
+<p float="left">
+  <img src="https://github.com/Ashok-Kumar-dharanikota/World-of-AI/assets/103619560/c2cdba9c-89b2-469e-92c8-08f0837cb6df" width="300" />
+  <img src="https://github.com/Ashok-Kumar-dharanikota/World-of-AI/assets/103619560/d8fafc4b-f36d-42e7-9de4-7f479d98877d" width="300" />
+  <img src="https://github.com/Ashok-Kumar-dharanikota/World-of-AI/assets/103619560/c87d1820-5c1b-4b91-b104-bdda36b9ce13" width="300" />
+</p>
 
 ## Contributing
 
